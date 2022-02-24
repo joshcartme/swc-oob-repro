@@ -2,7 +2,7 @@
     "jsc": {
         "experimental": {
             "plugins": [
-                ["/path/to/test_plugin/target/wasm32-wasi/debug/test_plugin.wasm", {}]
+                ["/Users/josh/development/b32014c71d28498008571943c69b4676/test_plugin/target/wasm32-wasi/debug/test_plugin.wasm", {}]
             ]
         }
     }

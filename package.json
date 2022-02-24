@@ -1,0 +1,23 @@
+{
+  "name": "swc-error-repro",
+  "version": "1.0.0",
+  "description": "Error repro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gist.github.com/b32014c71d28498008571943c69b4676.git"
+  },
+  "author": "Josh Cartmell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/b32014c71d28498008571943c69b4676"
+  },
+  "homepage": "https://gist.github.com/b32014c71d28498008571943c69b4676",
+  "devDependencies": {
+    "@swc/cli": "^0.1.55",
+    "@swc/core": "^1.2.144"
+  }
+}
